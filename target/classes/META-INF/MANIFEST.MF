@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: funkabo
+Build-Jdk: 17
+Main-Class: se.funkabo.App
+Created-By: Maven Integration for Eclipse
+
